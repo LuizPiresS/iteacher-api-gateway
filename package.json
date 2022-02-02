@@ -86,7 +86,7 @@
   },
   "lint-staged": {
     "*.ts": [
-      "yarn lint",
+      "yarn format",
       "yarn test"
     ]
   }
